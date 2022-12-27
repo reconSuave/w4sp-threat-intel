@@ -3,7 +3,8 @@ The "W4SP stealer" malware steals personal information, security credentials, an
 
 The network of criminals behind W4SP has repeatedly used it to attack the open-source supply chain, causing considerable economic damage and personally harming developers. The attacks are ongoing.
 
-![Data graph](1NP91Z0N-V45P-F4GT-60IN-263T45SOFK3D.cleaned.jpeg) 
+By aggregating the public data trails of known threat-actors, we have elucidated a partial, but exceptionally granular topology of the w4sp network and associated threat-space:
+![Data graph](https://raw.githubusercontent.com/reconSuave/w4sp-threat-intel/main/w4sp-network.cleaned.PNG) 
 This repository contains open-source data points collected on some of the individuals believed to be responsible. Including:
 - domains
 - IP addresses
@@ -25,8 +26,8 @@ This repository contains open-source data points collected on some of the indivi
 - exposed remote desktops
 - and more 
 
-Multiple formats: [HTML](./W4SP-spf.cleaned.html), [PDF](W4SP-spf.cleaned.pdf), [TXT](./w4sp.txt), [GEXF](./W4SP-spf.gexf) (for Gephi visualizer) [CSV](./W4SP-spf.csv), [JSON](./W4SP-spf.json), [XLSX](./W4SP-spf.cleaned.txt).
+Multiple formats: [HTML](./W4SP-spf.cleaned.html), [PDF](W4SP-spf.cleaned.pdf), [TXT](./w4sp.txt) ([raw](https://raw.githubusercontent.com/reconSuave/w4sp-threat-intel/main/w4sp.txt)), [GEXF](./W4SP-spf.gexf), [CSV](./W4SP-spf.csv), [JSON](./W4SP-spf.json), [XLSX](./W4SP-spf.cleaned.txt).
 
-This is a raw intelligence report. It may contain errors or omissions, and its accuracy has not been independently verified.  
+This is a raw intelligence report. It may contain errors or omissions, and its accuracy has not been independently verified. Please exercise prudence in your use of this information.  
 
   
