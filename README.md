@@ -10,7 +10,7 @@ Below is a node-graph that incorporates an assumption about a given data-object 
 
 ![node graph of highest risk active nodes](1NP91Z0N-V45P-F4GT-60IN-263T45SOFK3D.cleaned.jpeg)
 
-Having produced a small nugget of useful information, while at the same being aware that we're in over our heads and probably drifting toward Dunning-Kruger terrotory, we left it there.  But we are making the data available in its entirety. 
+Having produced a small nugget of useful information, while at the same being aware that we're in over our heads and probably drifting toward Dunning-Kruger territory, we left it there.  But we are making the data available in its entirety. 
 
 This repository contains over 3,000 open-source data points tied to individuals suspected of culpability for the recent w4sp attacks. 
 
