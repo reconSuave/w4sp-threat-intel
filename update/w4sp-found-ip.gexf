@@ -1,0 +1,813 @@
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
+  <meta lastmodified="2023-05-14T14:13:40.683910">
+    <creator>SpiderFoot Export</creator>
+    <description>SpiderFoot Export</description>
+  </meta>
+  <graph defaultedgetype="undirected" label="SpiderFoot Export" mode="static">
+    <attributes class="node" mode="dynamic"/>
+    <attributes class="node" mode="static"/>
+    <attributes class="edge" mode="dynamic"/>
+    <attributes class="edge" mode="static"/>
+    <nodes>
+      <node id="24" label="VLTREVISAN (Net ID: 00:02:6F:60:DC:96)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="25" label="Campinas, S?o Paulo, 13000-000, Brazil, South America">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="26" label="Douglas ServiceWi-Fi 91053218 (Net ID: 00:02:6F:9C:CD:C0)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="27" label="logitecuser (Net ID: 00:01:8E:7A:AA:52)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="20" label="estacao2 b (Net ID: 00:02:6F:63:D1:16)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="21" label="logitecgameuser (Net ID: 00:01:8E:56:11:A3)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="22" label="myLGNet21F2 (Net ID: 00:01:36:59:21:F0)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="23" label="BRILHO STAR (Net ID: 00:04:DF:4A:40:E4)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="28" label="4.228.83.86:3389">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="29" label="IBM REDE (Net ID: 00:02:6F:5D:5F:44)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="4" label="-22.9035, -47.0565">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="8" label="Campinas, Sao Paulo, 07175, Brazil, South America">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="59" label="Joao (Net ID: 00:04:DF:97:48:9B)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="58" label="salem (Net ID: 00:04:DF:A8:A0:23)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="55" label="caione (Net ID: 00:04:DF:75:58:43)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="54" label="Raquel (Net ID: 00:02:6F:63:15:88)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="57" label="LOURDINHA_CASA (Net ID: 00:02:6F:65:77:93)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="56" label="Oi WiFi VEX (Net ID: 00:02:6F:9B:DF:7B)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="51" label="EnGenius1 (Net ID: 00:02:6F:6A:81:DB)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="50" label="myLGNet551A (Net ID: 00:01:36:4F:55:18)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="53" label="RTL8186-GW (Net ID: 00:02:6F:60:EA:90)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="52" label="PrinterKl (Net ID: 00:04:DF:D7:89:A7)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="88" label="residence (Net ID: 00:02:6F:63:10:EE)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="89" label="Fer (Net ID: 00:02:72:75:B8:7B)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="111" label="OPALA2 (Net ID: 00:02:6F:63:E1:C0)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="110" label="CyberRede_11 (Net ID: 00:01:E3:F1:1F:AE)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="113" label="VIVO-ECFD (Net ID: 00:04:DF:4D:EC:FC)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="112" label="BentoQuirino (Net ID: 00:04:DF:79:91:63)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="82" label="Michelle (Net ID: 00:04:DF:A5:A7:F7)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="83" label="gefadvogados (Net ID: 00:04:DF:85:8F:E3)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="80" label="residence (Net ID: 00:02:6F:5F:46:CC)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="81" label="EDURO (Net ID: 00:02:6F:99:66:F8)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="86" label="rominuswi (Net ID: 00:03:7F:BF:35:11)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="87" label="MARCONDES (Net ID: 00:02:6F:53:5B:4A)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="84" label="myLGNet (Net ID: 00:02:A8:B1:50:BD)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="85" label="OPALA3 (Net ID: 00:02:6F:5F:46:C4)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="3" label="APBCAMPINAS116 (Net ID: 00:02:6F:3B:91:AB)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="7" label="Brazil">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="108" label="Abdalla (Net ID: 00:01:E3:EB:A1:2D)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="109" label="VIVO-6015 (Net ID: 00:04:DF:45:60:14)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="102" label="myLGNet (Net ID: 00:02:A8:A2:AC:D9)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="103" label="aprouter (Net ID: 00:02:6F:85:C6:2C)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="100" label="Acelga (Net ID: 00:04:DF:7D:22:67)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="101" label="MP ITAPURA 1200 (Net ID: 00:04:DF:4A:2F:C4)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="106" label="Engenius (Net ID: 00:02:6F:5D:56:8C)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="107" label="Oi WiFi (Net ID: 00:02:6F:9B:DF:F2)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="104" label="EnGenius9 (Net ID: 00:02:6F:8B:EB:35)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="105" label="WiFi (Net ID: 00:02:72:8C:24:93)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="39" label="8075">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="38" label="TyCo (Net ID: 00:02:6F:67:B2:B2)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="33" label="Oi WiFi (Net ID: 00:02:6F:9B:DF:7F)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="32" label="estacao4b (Net ID: 00:02:6F:72:E6:BA)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="31" label="OPALA3 (Net ID: 00:02:6F:5D:42:2A)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="30" label="OLIVEIRA (Net ID: 00:04:DF:91:1C:B3)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="37" label="OAB (Net ID: 00:04:DF:54:7C:6C)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="36" label="Loja do Colecionador (Net ID: 00:04:DF:AB:D2:9F)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="35" label="PRB_WLAN (Net ID: 00:02:72:73:49:A9)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="34" label="vilma (Net ID: 00:04:DF:8D:C8:9B)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="60" label="PRB_WLAN (Net ID: 00:02:72:66:78:B2)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="61" label="DMC_CLIENTES (Net ID: 00:02:6F:8B:EB:34)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="62" label="VIVO-8625 (Net ID: 00:04:DF:56:86:24)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="63" label="Paranapanema2 (Net ID: 00:02:6F:92:F6:4A)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="64" label="noemia (Net ID: 00:02:72:7D:FE:F7)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="65" label="CEZANNE (Net ID: 00:03:2F:2E:AF:68)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="66" label="home (Net ID: 00:01:E3:EB:91:C4)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="67" label="JULIA (Net ID: 00:04:DF:81:28:33)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="68" label="VIVO-7705 (Net ID: 00:04:DF:4F:77:04)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="69" label="OPALA8 (Net ID: 00:02:6F:64:87:24)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="2" label="4.224.0.0/12">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="6" label="Default (Net ID: 00:03:8F:E2:12:CC)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="99" label="vivo (Net ID: 00:04:DF:D7:7D:E3)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="98" label="OPALA_AR (Net ID: 00:02:6F:94:1D:62)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="91" label="ALPHA (Net ID: 00:03:2F:37:1B:8C)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="90" label="myLGNetB2DE (Net ID: 00:01:36:5B:B2:DC)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="93" label="dotto_1 (Net ID: 00:02:6F:9D:CD:40)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="92" label="Alba1 (Net ID: 00:02:6F:85:AE:9F)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="95" label="Brazil">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="94" label="OPALA6 (Net ID: 00:02:6F:63:25:8C)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="97" label="residence (Net ID: 00:02:6F:5D:39:12)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="96" label="Camera (Net ID: 00:04:DF:9E:48:DF)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="11" label="4.228.83.86">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="10" label="Campinas, Brazil">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="13" label="dotto_free (Net ID: 00:02:6F:9D:CD:41)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="12" label="Marcos (Net ID: 00:03:2F:38:7F:99)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="15" label="NortonHome (Net ID: 00:01:E3:C9:89:AE)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="14" label="CEZANNE (Net ID: 00:03:2F:2E:AF:64)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="17" label="Campinas, Sao Paulo, SP, Brazil, BR">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="16" label="csdc (Net ID: 00:04:DF:77:D2:BB)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="19" label="Amaury (Net ID: 00:02:6F:7C:83:FC)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="18" label="VIVO-4885 (Net ID: 00:04:DF:44:48:84)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="48" label="VIVO-C995 (Net ID: 00:04:DF:56:C9:94)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="49" label="WCERDEIRA (Net ID: 00:02:6F:77:15:10)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="46" label="Korus (Net ID: 00:01:E3:F2:B3:29)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="47" label="Luiz Koti (Net ID: 00:04:DF:77:57:FB)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="44" label="GVT-1423 (Net ID: 00:04:DF:75:05:E3)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="45" label="estacao2 a (Net ID: 00:02:6F:72:E6:B6)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="42" label="xt1033 (Net ID: 00:04:DF:A6:AB:5B)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="43" label="siemens (Net ID: 00:01:E3:F2:98:E9)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="40" label="Buteka (Net ID: 00:04:DF:97:BE:1B)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="41" label="FOX_OFFICE (Net ID: 00:02:72:7B:2B:9A)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="1" label="3356">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="5" label="4.228.83.86">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="9" label="Reurb (Net ID: 00:01:E3:EC:80:F4)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="77" label="myLGNet (Net ID: 00:02:A8:C9:26:8D)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="76" label="LMMML (Net ID: 00:04:DF:4D:9A:6C)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="75" label="logitecuser (Net ID: 00:01:8E:56:11:A2)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="74" label="OPALA8 (Net ID: 00:02:6F:64:87:06)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="73" label="Richard (Net ID: 00:01:E3:F1:1A:35)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="72" label="luluesc (Net ID: 00:03:6D:F4:D3:64)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="71" label="residence (Net ID: 00:02:6F:5D:42:B8)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="70" label="ADVOCACIA1 (Net ID: 00:02:6F:57:31:C5)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="79" label="logitecgameuser (Net ID: 00:01:8E:7A:AA:53)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+      <node id="78" label="residence (Net ID: 00:02:6F:5F:46:C8)">
+        <attvalues/>
+        <viz:color r="0" g="0" b="0"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="24" source="11" target="28">
+        <attvalues/>
+      </edge>
+      <edge id="25" source="4" target="29">
+        <attvalues/>
+      </edge>
+      <edge id="26" source="4" target="30">
+        <attvalues/>
+      </edge>
+      <edge id="27" source="4" target="31">
+        <attvalues/>
+      </edge>
+      <edge id="20" source="4" target="24">
+        <attvalues/>
+      </edge>
+      <edge id="21" source="11" target="25">
+        <attvalues/>
+      </edge>
+      <edge id="22" source="4" target="26">
+        <attvalues/>
+      </edge>
+      <edge id="23" source="4" target="27">
+        <attvalues/>
+      </edge>
+      <edge id="28" source="4" target="32">
+        <attvalues/>
+      </edge>
+      <edge id="29" source="4" target="33">
+        <attvalues/>
+      </edge>
+      <edge id="4" source="4" target="6">
+        <attvalues/>
+      </edge>
+      <edge id="8" source="4" target="12">
+        <attvalues/>
+      </edge>
+      <edge id="59" source="4" target="61">
+        <attvalues/>
+      </edge>
+      <edge id="58" source="4" target="60">
+        <attvalues/>
+      </edge>
+      <edge id="55" source="5" target="11">
+        <attvalues/>
+      </edge>
+      <edge id="54" source="4" target="57">
+        <attvalues/>
+      </edge>
+      <edge id="57" source="4" target="59">
+        <attvalues/>
+      </edge>
+      <edge id="56" source="4" target="58">
+        <attvalues/>
+      </edge>
+      <edge id="51" source="4" target="54">
+        <attvalues/>
+      </edge>
+      <edge id="50" source="4" target="53">
+        <attvalues/>
+      </edge>
+      <edge id="53" source="4" target="56">
+        <attvalues/>
+      </edge>
+      <edge id="52" source="4" target="55">
+        <attvalues/>
+      </edge>
+      <edge id="115" source="4" target="113">
+        <attvalues/>
+      </edge>
+      <edge id="114" source="4" target="112">
+        <attvalues/>
+      </edge>
+      <edge id="88" source="4" target="87">
+        <attvalues/>
+      </edge>
+      <edge id="89" source="4" target="88">
+        <attvalues/>
+      </edge>
+      <edge id="111" source="4" target="109">
+        <attvalues/>
+      </edge>
+      <edge id="110" source="4" target="108">
+        <attvalues/>
+      </edge>
+      <edge id="113" source="4" target="111">
+        <attvalues/>
+      </edge>
+      <edge id="112" source="4" target="110">
+        <attvalues/>
+      </edge>
+      <edge id="82" source="4" target="81">
+        <attvalues/>
+      </edge>
+      <edge id="83" source="4" target="82">
+        <attvalues/>
+      </edge>
+      <edge id="80" source="17" target="7">
+        <attvalues/>
+      </edge>
+      <edge id="81" source="4" target="80">
+        <attvalues/>
+      </edge>
+      <edge id="86" source="4" target="85">
+        <attvalues/>
+      </edge>
+      <edge id="87" source="4" target="86">
+        <attvalues/>
+      </edge>
+      <edge id="84" source="4" target="83">
+        <attvalues/>
+      </edge>
+      <edge id="85" source="4" target="84">
+        <attvalues/>
+      </edge>
+      <edge id="3" source="5" target="5">
+        <attvalues/>
+      </edge>
+      <edge id="7" source="11" target="10">
+        <attvalues/>
+      </edge>
+      <edge id="108" source="4" target="106">
+        <attvalues/>
+      </edge>
+      <edge id="109" source="4" target="107">
+        <attvalues/>
+      </edge>
+      <edge id="102" source="4" target="101">
+        <attvalues/>
+      </edge>
+      <edge id="103" source="11" target="4">
+        <attvalues/>
+      </edge>
+      <edge id="100" source="4" target="99">
+        <attvalues/>
+      </edge>
+      <edge id="101" source="4" target="100">
+        <attvalues/>
+      </edge>
+      <edge id="106" source="4" target="104">
+        <attvalues/>
+      </edge>
+      <edge id="107" source="4" target="105">
+        <attvalues/>
+      </edge>
+      <edge id="104" source="4" target="102">
+        <attvalues/>
+      </edge>
+      <edge id="105" source="4" target="103">
+        <attvalues/>
+      </edge>
+      <edge id="39" source="4" target="43">
+        <attvalues/>
+      </edge>
+      <edge id="38" source="4" target="42">
+        <attvalues/>
+      </edge>
+      <edge id="33" source="4" target="37">
+        <attvalues/>
+      </edge>
+      <edge id="32" source="4" target="36">
+        <attvalues/>
+      </edge>
+      <edge id="31" source="4" target="35">
+        <attvalues/>
+      </edge>
+      <edge id="30" source="4" target="34">
+        <attvalues/>
+      </edge>
+      <edge id="37" source="4" target="41">
+        <attvalues/>
+      </edge>
+      <edge id="36" source="4" target="40">
+        <attvalues/>
+      </edge>
+      <edge id="35" source="11" target="39">
+        <attvalues/>
+      </edge>
+      <edge id="34" source="4" target="38">
+        <attvalues/>
+      </edge>
+      <edge id="60" source="4" target="62">
+        <attvalues/>
+      </edge>
+      <edge id="61" source="4" target="63">
+        <attvalues/>
+      </edge>
+      <edge id="62" source="4" target="64">
+        <attvalues/>
+      </edge>
+      <edge id="63" source="4" target="65">
+        <attvalues/>
+      </edge>
+      <edge id="64" source="4" target="66">
+        <attvalues/>
+      </edge>
+      <edge id="65" source="4" target="67">
+        <attvalues/>
+      </edge>
+      <edge id="66" source="4" target="68">
+        <attvalues/>
+      </edge>
+      <edge id="67" source="4" target="69">
+        <attvalues/>
+      </edge>
+      <edge id="68" source="4" target="70">
+        <attvalues/>
+      </edge>
+      <edge id="69" source="4" target="71">
+        <attvalues/>
+      </edge>
+      <edge id="2" source="4" target="3">
+        <attvalues/>
+      </edge>
+      <edge id="6" source="4" target="9">
+        <attvalues/>
+      </edge>
+      <edge id="99" source="4" target="98">
+        <attvalues/>
+      </edge>
+      <edge id="98" source="4" target="97">
+        <attvalues/>
+      </edge>
+      <edge id="91" source="4" target="90">
+        <attvalues/>
+      </edge>
+      <edge id="90" source="4" target="89">
+        <attvalues/>
+      </edge>
+      <edge id="93" source="4" target="92">
+        <attvalues/>
+      </edge>
+      <edge id="92" source="4" target="91">
+        <attvalues/>
+      </edge>
+      <edge id="95" source="4" target="94">
+        <attvalues/>
+      </edge>
+      <edge id="94" source="4" target="93">
+        <attvalues/>
+      </edge>
+      <edge id="97" source="4" target="96">
+        <attvalues/>
+      </edge>
+      <edge id="96" source="11" target="95">
+        <attvalues/>
+      </edge>
+      <edge id="11" source="4" target="15">
+        <attvalues/>
+      </edge>
+      <edge id="10" source="4" target="14">
+        <attvalues/>
+      </edge>
+      <edge id="13" source="11" target="17">
+        <attvalues/>
+      </edge>
+      <edge id="12" source="4" target="16">
+        <attvalues/>
+      </edge>
+      <edge id="15" source="4" target="19">
+        <attvalues/>
+      </edge>
+      <edge id="14" source="4" target="18">
+        <attvalues/>
+      </edge>
+      <edge id="17" source="4" target="21">
+        <attvalues/>
+      </edge>
+      <edge id="16" source="4" target="20">
+        <attvalues/>
+      </edge>
+      <edge id="19" source="4" target="23">
+        <attvalues/>
+      </edge>
+      <edge id="18" source="4" target="22">
+        <attvalues/>
+      </edge>
+      <edge id="48" source="4" target="51">
+        <attvalues/>
+      </edge>
+      <edge id="49" source="4" target="52">
+        <attvalues/>
+      </edge>
+      <edge id="46" source="4" target="49">
+        <attvalues/>
+      </edge>
+      <edge id="47" source="4" target="50">
+        <attvalues/>
+      </edge>
+      <edge id="44" source="25" target="7">
+        <attvalues/>
+      </edge>
+      <edge id="45" source="4" target="48">
+        <attvalues/>
+      </edge>
+      <edge id="42" source="4" target="46">
+        <attvalues/>
+      </edge>
+      <edge id="43" source="4" target="47">
+        <attvalues/>
+      </edge>
+      <edge id="40" source="4" target="44">
+        <attvalues/>
+      </edge>
+      <edge id="41" source="4" target="45">
+        <attvalues/>
+      </edge>
+      <edge id="1" source="2" target="1">
+        <attvalues/>
+      </edge>
+      <edge id="5" source="8" target="7">
+        <attvalues/>
+      </edge>
+      <edge id="9" source="4" target="13">
+        <attvalues/>
+      </edge>
+      <edge id="77" source="4" target="77">
+        <attvalues/>
+      </edge>
+      <edge id="76" source="11" target="8">
+        <attvalues/>
+      </edge>
+      <edge id="75" source="4" target="76">
+        <attvalues/>
+      </edge>
+      <edge id="74" source="4" target="75">
+        <attvalues/>
+      </edge>
+      <edge id="73" source="4" target="74">
+        <attvalues/>
+      </edge>
+      <edge id="72" source="4" target="73">
+        <attvalues/>
+      </edge>
+      <edge id="71" source="11" target="2">
+        <attvalues/>
+      </edge>
+      <edge id="70" source="4" target="72">
+        <attvalues/>
+      </edge>
+      <edge id="79" source="4" target="79">
+        <attvalues/>
+      </edge>
+      <edge id="78" source="4" target="78">
+        <attvalues/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
